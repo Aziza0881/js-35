@@ -521,5 +521,22 @@ table p {
     font-size: 12px;
     color: #0066CC;
 }
+.aa {
+    background-color: url(./img/iphone-15_natural-titanium_1\ \(1\).jfif);
+    height: 500px;
+    width: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.bb {
+    background-color: url(./img/iphone-15_blue-titanium_1\ \(1\).jfif);
+    height: 500px;
+    width: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
 
